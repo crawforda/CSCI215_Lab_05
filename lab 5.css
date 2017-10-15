@@ -1,0 +1,28 @@
+p
+{
+    font-weight: bold;
+    font-size: large;
+}
+
+li
+{
+    font-style: italic;
+}
+
+font-size: 19px;
+font-family: "Lobster Two", Impact, Charcoal, "sans-serif";
+color: rgb(66, 133, 213);
+
+font-size: 3.3684em;
+line-height: 1.2656;
+margin-top: .4219em;
+margin-bottom: 0;
+color: rgb(154, 26, 32);
+
+}
+
+margin-top: 1.4211em;
+margin-bottom: 0;
+
+color: rgb(255, 255, 255);
+transition: .5s color;
